@@ -1,6 +1,4 @@
-# medpromptforXAI
-
-## Well-tempered medical prompt engineering for explainable extubation
+# Well-tempered medical prompt engineering for explainable extubation (medpromptforXAI)
 This study proposes a method to enhance the interpretability of XGBoost-based models in the field of medical artificial intelligence by utilizing prompt engineering to improve the interpretability of SHAP and given data.
 
 ### Project Structure
